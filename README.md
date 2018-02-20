@@ -21,10 +21,13 @@ Una vez clonado este repositorio, desde una consola ejecutamos los siguientes co
 ```bash
 # Creamos virtualenv python3 llamado tradingmotion
 $ conda create -n tradingmotion python=3
+
 # Activamos el recién creado virtualenv
 $ source activate tradingmotion
+
 # Instalamos las dependencias del proyecto
 $ pip install -r requirements.txt
+
 # Creamos un kernel para usar jupyter en el virtualenv tradingmotion
 $ python -m ipykernel install --user --name tradingmotion --display-name "Python3 (tradingmotion)"
 ```
