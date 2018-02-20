@@ -30,8 +30,13 @@ $ python -m ipykernel install --user --name tradingmotion --display-name "Python
 ```
 
 ## Uso
+
 ```bash
 # Ejecutamos el notebook para analizar portfolios
 $ jupyter notebook 
 ```
+
+En este momento se abrirá una ventana del navegador con la interfaz web de Jupyter Notebook. 
+
+Cagamos el notebook **TradingMotion-Portfolios.ipynb** y seguimos las instrucciones
 
