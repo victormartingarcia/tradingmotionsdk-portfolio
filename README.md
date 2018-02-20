@@ -3,7 +3,7 @@ Herramienta para analizar portfolios a través de estrategias TradingMotion SDK.
 
 La interfaz es un [Jupyter Notebook](http://jupyter.org/) que contiene el código Python para cargar múltiples informes de backtests simulados con la herramienta TradingMotion SDK toolkit, y poder visualizar los datos combinados del portfolio de sistemas.
 
-(TODO: Gif animado)
+![Jupyter Notebook TradingMotion Portfolio](screenshot.png?raw=true "TradingMotion Portfolio")
 
 Esta utilidad ha sido creada para ayudar a los participantes de la categoría TradingMotion dentro del concurso de trading algorítmico [Robotrader](http://www.gaps.ssr.upm.es/es/eventos/robotrader).
 
