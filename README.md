@@ -1,7 +1,9 @@
 # tradingmotionsdk-portfolio
 Herramienta para analizar portfolios a través de estrategias TradingMotion SDK.
 
-La interfaz es un [Jupyter Notebook](http://jupyter.org/) que contiene el código Python para cargar múltiples informes de backtests simulados con la herramienta TradingMotion SDK toolkit, y poder visualizar los datos combinados del portfolio de sistemas.
+La interfaz es un **Jupyter Notebook** que contiene el código Python para cargar múltiples informes de backtests simulados con la herramienta TradingMotion SDK toolkit, y poder visualizar los datos combinados del portfolio de sistemas.
+
+**[Ver Ejemplo de análisis de portfolio](http://nbviewer.ipython.org/github/victormartingarcia/tradingmotionsdk-portfolio/blob/master/TradingMotion-Portfolios.ipynb)**
 
 ![Jupyter Notebook TradingMotion Portfolio](screenshot.png?raw=true "TradingMotion Portfolio")
 
@@ -41,5 +43,7 @@ $ jupyter notebook
 
 En este momento se abrirá una ventana del navegador con la interfaz web de Jupyter Notebook. 
 
-Cagamos el notebook **TradingMotion-Portfolios.ipynb** y seguimos las instrucciones
+Cargamos el notebook **TradingMotion-Portfolios.ipynb** y seguimos las instrucciones (ver [Ejemplo de portfolio analizado](http://nbviewer.ipython.org/github/victormartingarcia/tradingmotionsdk-portfolio/blob/master/TradingMotion-Portfolios.ipynb))
+
+
 
